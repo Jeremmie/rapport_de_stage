@@ -8,7 +8,11 @@
     "build": "vite build"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "@vitejs/plugin-react": "3.0",
+=======
+    "@vitejs/plugin-react": "5.1",
+>>>>>>> a6c0b264ba0478c4695bd0f3e9decfb18fbc5113
     "vite": "^7.2.2"
   },
   "dependencies": {
@@ -21,6 +25,6 @@
     "react": "18.2",
     "react-dom": "18.2",
     "three": "^0.148.0",
-    "vite-plugin-glsl": "^1.1.0"
+    "vite-plugin-glsl": "^1.5.4"
   }
 }
